@@ -11,7 +11,7 @@ done
 printf "]\n\e[0m\e[1m\n"
 }
 banner() {
-cd $HOME/Mohini/logo
+cd Heart-Stealer/logo.sh
 bash logo.sh
 }
 mohini_ip() {
