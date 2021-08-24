@@ -1,5 +1,5 @@
 # Mohini 
-<a href="https://ibb.co
+
 
 # Commands
 ## (Copy Command & Paste in Termux)
