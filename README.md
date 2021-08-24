@@ -1,6 +1,6 @@
 # Mohini 
-<a href="https://ibb.co/VW5HGfj"><img src="https://i.ibb.co/GvNsDzx/logo.jpg" alt="logo" border="0"></a>
-<br>
+<a href="https://ibb.co
+
 # Commands
 ## (Copy Command & Paste in Termux)
 <br>
